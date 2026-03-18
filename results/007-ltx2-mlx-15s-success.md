@@ -1,4 +1,4 @@
-# Test 007: LTX-2 MLX T2V — 15 seconds 1280×768 SUCCESS
+# Test 007: LTX-2 MLX T2V — 1280×768 15s SUCCESS
 
 **Date**: 2026-03-18
 **Model**: LTX-2 MLX AV
@@ -24,10 +24,10 @@
 | File size | 2.1MB |
 | Codec | H.264 |
 
-## Full M2 Max Capability Matrix
+## Complete M2 Max Capability Matrix
 | Resolution | 5s | 10s | 15s |
 |-----------|-----|-----|-----|
-| 768×448 | ✅ 1min | ✅ 2min | — |
+| 768×448 | ✅ 2min | ✅ 2min | — |
 | 1024×576 | ✅ 4min | ✅ 8min | — |
 | 1280×768 | ✅ 8min | ✅ 16min | **✅ 31min** |
-| 1920×1088 | **✅ 18min** | ❌ Crash | ❌ |
+| 1920×1088 | ✅ 18min | ❌ crash | ❌ |
